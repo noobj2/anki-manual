@@ -1,0 +1,6 @@
+body { direction: rtl; }
+code { direction: ltr; }
+
+.nav-wide-wrapper, #menu-bar {
+    direction: ltr;
+}
